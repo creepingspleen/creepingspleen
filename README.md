@@ -43,4 +43,4 @@ I also like participating in machine leaning competitions.
 
 |Project name| Description| Tools|
 |----------------|-----------------|-----|
-|[Recommendation system for a website](https://github.com/creepingspleen/)|Preprocessing of data from DB, analysis, building a model and  |Python, Pandas, Numpy, Scikit-learn, CatBoost, FastApi, SQLAlchemy|
+|[Recommendation system for a website](https://github.com/creepingspleen/)|Preprocessing of data from DB, analysis, building and training a model and  making a service for personal recommendations|Python, Pandas, Numpy, Scikit-learn, CatBoost, FastApi, SQLAlchemy|
